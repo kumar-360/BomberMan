@@ -1,0 +1,22 @@
+.inside{
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+    display: inline-block;
+    margin: 4px;
+}
+#container{
+   text-align: center;
+
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+button{
+    margin: 10px;
+}
+/* #reset{
+    display: none;
+} */
