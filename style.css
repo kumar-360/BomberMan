@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+}
+.inside{
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+    
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+}
+#container{
+   text-align: center;
+    
+}
+#buttons{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+button{
+    margin: 10px;
+    cursor: pointer;
+}
+/* #reset{
+    display: none;
+} */
+.result-display{
+    margin: 0 auto;
+}
